@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    background-color: cyan;
+    align-items: center;
+    flex-direction: column;
+    /* justify-content: center; */
+    user-select: none;
+    overflow: hidden;
+    /* height: 100%; */
+    padding: 20px;
+}
+
+main {
+    flex-grow: 1;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#logo {
+    background-color: antiquewhite;
+    flex-grow: 1;
+    padding: .4em;
+}
+
+#cn {
+    background-color: antiquewhite;
+    padding: .4em;
+    flex-shrink: 1;
+} 
+
