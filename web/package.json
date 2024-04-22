@@ -9,6 +9,7 @@
   "author": "tapacuk93@gmail.com",
   "license": "GPL-3.0",
   "dependencies": {
+    "goog": "^0.2.1",
     "requirejs": "^2.3.6"
   }
 }

@@ -44,11 +44,24 @@ main {
     margin: .3em;
 }
 
-#cn {
+#footer {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+#inc {
     background-color: antiquewhite;
     /* padding: .4em; */
     /* flex-shrink: 1; */
     margin: .3em;
+}
+
+div#devs {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
 
 /* common */
