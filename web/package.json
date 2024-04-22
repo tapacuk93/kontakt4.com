@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify  exe-source.js > exe.js"
   },
   "author": "tapacuk93@gmail.com",
   "license": "GPL-3.0",
   "dependencies": {
+    "browserify": "^17.0.0",
     "goog": "^0.2.1",
     "requirejs": "^2.3.6"
   }
