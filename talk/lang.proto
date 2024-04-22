@@ -1,0 +1,7 @@
+message enter {
+    required string phone = 1;
+};
+
+message entered {
+    required string access = 1;
+};

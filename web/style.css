@@ -6,26 +6,53 @@ body {
     /* justify-content: center; */
     user-select: none;
     overflow: hidden;
-    /* height: 100%; */
-    padding: 20px;
+    height: 100%;
+    /* padding: 1em; */
+    font-size: 3em;
+    touch-action: manipulation;
+}
+
+input {
+    font-size: 1em;
+}
+
+button {
+    font-size: 1em;
 }
 
 main {
     flex-grow: 1;
     height: 100%;
     display: flex;
+    flex-direction: column;
     align-items: center;
 }
 
 #logo {
     background-color: antiquewhite;
-    flex-grow: 1;
-    padding: .4em;
+    /* flex-grow: 1; */
+    margin: .3em;
+}
+
+#phone {
+    padding: .3em;
+    margin: .3em;
+}
+
+#enter {
+    padding: .3em;
+    margin: .3em;
 }
 
 #cn {
     background-color: antiquewhite;
-    padding: .4em;
-    flex-shrink: 1;
-} 
+    /* padding: .4em; */
+    /* flex-shrink: 1; */
+    margin: .3em;
+}
 
+/* common */
+
+.spacer {
+    flex-grow: 1;
+}
