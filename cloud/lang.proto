@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+
+package k4;
+
+message enter {
+    string phone = 1;
+};
+
+message entered {
+    string access = 1;
+};
+
+service k4 {
+    rpc toEnter (enter) returns (entered);
+};
