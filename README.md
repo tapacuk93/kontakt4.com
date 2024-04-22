@@ -1,28 +1,28 @@
 #### Donate
 
-SWIFT / BIC Code 
+SWIFT / BIC Code\
 FRNAUS44XXX
 
-Bank Name 
+Bank Name\
 First National Bankers Bank
 
-Bank Address
-7813 Office Park Blvd
-Baton Rouge, LA, 70809
+Bank Address\
+7813 Office Park Blvd\
+Baton Rouge, LA, 70809\
 USA
 
-Beneficiary Name
+Beneficiary Name\
 ArtSense, Inc.
 
-IBAN / Account Number
+IBAN / Account Number\
 9800502272
 
-Beneficiary Address 
-651 North Broad Street, Suite 206
-Middletown, DE 19709
+Beneficiary Address\
+651 North Broad Street, Suite 206\
+Middletown, DE 19709\
 USA
 
-Remittance Info 
-084106768 with Evolve Bank and
-Trust, 6000 Poplar Ave Ste. 300
+Remittance Info\
+084106768 with Evolve Bank and\
+Trust, 6000 Poplar Ave Ste. 300\
 Memphis, TN 38119
