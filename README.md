@@ -1,3 +1,6 @@
+#### Design
+https://www.figma.com/files/project/227018659
+
 #### Donate
 
 SWIFT / BIC Code\
